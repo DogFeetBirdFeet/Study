@@ -1,4 +1,11 @@
 
+<p align="center">
+  <img src="https://github.com/DogFeetBirdFeet/Study/blob/main/unnamed.png?raw=true" width="600"/>
+</p>
+
+<p align="center"><b>너무나도 완벽한 개발 새발이었습니다.</b></p>
+
+
 # 🐾 개발자 커뮤니티 **개발새발** 소개
 
 **개발새발**은 서로의 지식과 생각을 깊이 나누며 함께 성장하는 **개발자 커뮤니티**입니다.  
